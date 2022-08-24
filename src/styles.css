@@ -39,6 +39,8 @@ footer {
   display: flex;
   justify-content: space-evenly;
   font-size: 18px;
+  max-width: 600px;
+  margin: 0 auto;
 }
 
 .section {
