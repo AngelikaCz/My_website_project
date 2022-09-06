@@ -128,3 +128,23 @@ nav {
 .about-paragraph {
   background: white;
 }
+
+@media (max-width:576px){
+  h1{
+    font-size:3rem;
+  }
+
+  .section_heading, .section-text{
+    text-align: center;
+  }
+.section_heading{
+  margin-top:3rem;
+}
+    .section-links{
+      display:block;
+      text-align: center;
+    }
+    .about_images img{
+      margin-bottom: 3rem;
+    }
+}
